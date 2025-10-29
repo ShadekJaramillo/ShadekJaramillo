@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shadekjaramillo@gmail.com**
 
-- 📄 Know about my experiences [CV link](https://github.com/ShadekJaramillo/ShadekJaramillo/blob/main/Curriculum_Vitae__espa%C3%B1ol_.pdf)
+- 📄 Know about my experiences [(spanish)](https://github.com/ShadekJaramillo/ShadekJaramillo/blob/main/Curriculum_Vitae__espa%C3%B1ol_.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
