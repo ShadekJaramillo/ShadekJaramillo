@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadek Jaramillo</h1>
 <h3 align="center">Data scientist from colombia</h3>
 
-- 🔭 I’m currently working on [Shelf'Scanner](https://github.com/ASH-Data-projects/shelf-scanner)
+- 🔭 I’m currently working on [Shelf-Scanner](https://github.com/ASH-Data-projects/shelf-scanner)
 
 - 🌱 I’m currently learning **GO, SQL, Data Pipelines**
 
