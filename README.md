@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shadekjaramillo@gmail.com**
 
-- 📄 Know about my experiences [(English)](https://github.com/ShadekJaramillo/ShadekJaramillo/blob/main/Curriculum_Vitae.pdf) [(Español)](https://github.com/ShadekJaramillo/ShadekJaramillo/blob/main/Curriculum_Vitae__espa%C3%B1ol_.pdf)
+- 📄 Know about my experiences [(English)](https://drive.google.com/file/d/1PC95sZIIMk8jgJeWL8kXxAG0U_Hsl_lo/view?usp=drive_link) [(Español)](https://drive.google.com/file/d/1igIPqlfWNmcN1oayNCiSbTPwWwDhg4cZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
